@@ -40,9 +40,21 @@ li {
 }
 
 .recipe-subheading {
-    margin: 0 auto;
+    margin: 35px;
+    margin-top: 50px;
 }
 
 p {
     margin: 35px;
+}
+
+img {
+    margin-left: 35px;
+}
+
+.home-link {
+    margin: 35px;
+    background-color: whitesmoke;
+    padding: 8px;
+    border-radius: 8px;
 }
