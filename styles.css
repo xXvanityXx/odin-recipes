@@ -20,11 +20,9 @@ body {
 .recipe-heading {
     border: 0px;
     background-color: rgba(156, 207, 255, 0.753);
-    font-size: 15px;
     max-width: max-content;
     padding: 8px;
-    text-align: center;
-    margin: auto;
+    margin: 0 auto;
     margin-bottom: 20px;
     box-sizing: border-box;
     border-radius: 10px;
@@ -41,6 +39,10 @@ li {
     margin-top: 8px;
 }
 
+.recipe-subheading {
+    margin: 0 auto;
+}
+
 p {
-    background-color: ;
+    margin: 35px;
 }
