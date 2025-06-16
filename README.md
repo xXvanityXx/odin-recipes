@@ -1,1 +1,2 @@
 # odin-recipes
+This project is to build my skills developing in HTML! By the end of building this webpage, I will have demonstrated how to build a complete HTML boilerplate, implement links, images and text, will commit often and with effective comments, and will be able to push the whole thing up to the main branch!
